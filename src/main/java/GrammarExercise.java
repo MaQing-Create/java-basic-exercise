@@ -1,5 +1,5 @@
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class GrammarExercise {
     public static void main(String[] args) {
